@@ -1,3 +1,3 @@
 # React-Portfolio
 
-React-Portfolio is a portfolio website created with react. The website is build using a youtube tutorial and is created for understanding the basic concepts of react,scss,JavaScript etc. 
+React-Portfolio is my portfolio website created with React. The website is build using a youtube tutorial and is used for understanding the basic concepts of React,Scss,JavaScript etc. 
